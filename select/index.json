@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ギガンティックO.T.N",
+  "base_artist": "Giga",
+  "createdAt": "2025-12-23T08:24:03.076056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/01_ギガンティックO.T.N_-Big_Death_Edition-_れをる.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_ギガンティックO.T.N_-Big_Death_Edition-_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "ギガP feat. れをる",
+      "has_synced": true,
+      "path": "select/03_ギガンティックO.T.N_-Big_Death_Edition-_ギガP_feat._れをる.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "ギガP",
+      "has_synced": true,
+      "path": "select/04_ギガンティックO.T.N_-Big_Death_Edition-_ギガP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N (フリーダムVer.)",
+      "artist": "__(アンダーバー)",
+      "has_synced": true,
+      "path": "select/05_ギガンティックO.T.N_(フリーダムVer.)_(アンダーバー).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N (フリーダムVer.)",
+      "artist": "アンダーバー",
+      "has_synced": true,
+      "path": "select/06_ギガンティックO.T.N_(フリーダムVer.)_アンダーバー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition- [Gigantic O.T.N -Big Death Edition-]",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/07_ギガンティックO.T.N_-Big_Death_Edition-_[Gigantic_O.T.N_-Big_Death_Edition-]_Reol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "ギガP feat. Reol",
+      "has_synced": true,
+      "path": "select/08_ギガンティックO.T.N_-Big_Death_Edition-_ギガP_feat._Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N",
+      "artist": "ギガP; くろくも",
+      "has_synced": false,
+      "path": "select/09_ギガンティックO.T.N_ギガP;_くろくも.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N",
+      "artist": "そらる",
+      "has_synced": true,
+      "path": "select/10_ギガンティックO.T.N_そらる.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "GigaP feat. Reol",
+      "has_synced": true,
+      "path": "select/11_ギガンティックO.T.N_-Big_Death_Edition-_GigaP_feat._Reol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "GigaP",
+      "has_synced": true,
+      "path": "select/12_ギガンティックO.T.N_-Big_Death_Edition-_GigaP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/13_ギガンティックO.T.N_-Big_Death_Edition-_Giga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "Giga feat. Reol",
+      "has_synced": true,
+      "path": "select/14_ギガンティックO.T.N_-Big_Death_Edition-_Giga_feat._Reol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N -Big Death Edition-",
+      "artist": "れをる",
+      "has_synced": true,
+      "path": "select/15_ギガンティックO.T.N_-Big_Death_Edition-_れをる.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ギガンティックO.T.N (フリーダムVer.) feat._(アンダーバー)(カバー)",
+      "artist": "GigaP",
+      "has_synced": false,
+      "path": "select/16_ギガンティックO.T.N_(フリーダムVer.)_feat._(アンダーバー)(カバー)_GigaP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギガンティックO.T.N",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/pl_01_ギガンティックO.T.N_Giga.txt"
+    }
+  ]
+}
